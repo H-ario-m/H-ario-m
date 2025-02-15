@@ -2,6 +2,7 @@
 <h3 align="center">A passionate AI/ML developer, problem solver, and tech enthusiast</h3>
 
 - 🔬 I’m currently working on **a full-fledged chat application with blockchain security, real-time messaging, and emergency features.**
+  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTd1aXJ6ODUwdHBlOWU3Mm96bmZ1c2pweWN2dXB1dmVqYmdpZnNnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200" height="150" />
 - 🌱 I’m currently learning **Blockchain development, Go, and advanced cryptographic techniques.**
 - 👥 I’m looking to collaborate on **open-source AI/ML projects, blockchain security applications, and innovative startups.**
 - ✍️ I’m looking for help with **deep learning optimization, Web3 security, and scalability solutions.**
@@ -43,11 +44,11 @@
 ---
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshuman-ojha&show_icons=true&locale=en&layout=compact" alt="anshuman-ojha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=H-ario-m&show_icons=true&locale=en&layout=compact" alt="anshuman-ojha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshuman-ojha&show_icons=true&locale=en" alt="anshuman-ojha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=H-ario-m&show_icons=true&locale=en" alt="anshuman-ojha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshuman-ojha&" alt="anshuman-ojha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=H-ario-m&" alt="anshuman-ojha" /></p>
 
 ---
 
